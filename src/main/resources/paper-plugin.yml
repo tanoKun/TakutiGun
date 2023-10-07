@@ -1,0 +1,4 @@
+name: TakutiGun
+version: '${project.version}'
+main: com.tanokun.github.takutigun.TakutiGun
+api-version: '1.19'
